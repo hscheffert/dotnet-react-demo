@@ -1,0 +1,13 @@
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+code {
+  color: #E01A76;
+}
+
+
+.complete {
+  text-decoration: line-through;
+}
